@@ -2,10 +2,6 @@
 
 ![ezgif com-animated-gif-maker (2)](https://github.com/Abhi0323/Fine-Tuning-Large-Language-Model/assets/112967999/e8a03244-6db8-4b4b-82e7-ae2660ee87b5)
 
-* Try out the fine-tuned LLaMA-2 model for yourself here: https://huggingface.co/Abhishek0323/llama-2-7b-ftabhi
-
-* You can view my blog, which details the end-to-end steps for this project, here: https://medium.com/@abhishekgoud1212/enhancing-language-understanding-with-llama-2-a-journey-from-fine-tuning-to-deployment-7ac097b5204e
-
 ## Project Overview
 
 EfficiencyAI presents a sophisticated endeavor to fine-tune the LLaMA-2 model using the QLORA technique, with a focus on the "mlabonne/guanaco-llama2-1k" dataset. QLORA is a parameter-efficient method designed to fine-tune large pre-trained models like LLaMA-2. This method is especially advantageous for customizing models for specific tasks, particularly when computational resources are at a premium.
